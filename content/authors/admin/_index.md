@@ -46,66 +46,76 @@ profiles:
   # - icon: academicons/orcid
     # url: https://orcid.org/
 
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+# interests:
+#   - Stochastic processes
+#   - Epidemic models
+#   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD in applied mathematics
+    institution: INRAE, Université Paris-Saclay
+    date_start: 2022-10-01
+    date_end: ongoing
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Les mouvements commerciaux d’animaux constituent un vecteur privilégié pour la propagation de maladies infectieuses. En France, les exigences de traçabilité se sont traduites par la mise en place de bases de données nationales de suivi des animaux. Dans cette thèse, nous étudierons des modèles de graphes aléatoires spatialement explicites permettant de reproduire les interactions à courte et longue distance constatées empiriquement dans les mouvements commerciaux d’animaux. Nous nous placerons dans le cadre des réseaux scale-free percolation (SFP), qui combinent une inhomogénéité intrinsèque des nœuds avec un aléa dépendant de leur distance géographique. Nous établirons rigoureusement des relations générales entre les propriétés génératives du réseau (distance géographique et relations commerciales) et les caractéristiques des processus épidémiques qui s’y propagent. Nous combinerons ensuite les données de mouvements d’animaux avec des informations géographiques de haute résolution (SIG) pour aboutir à une représentation spatialisée des réseaux commerciaux d’animaux d’élevage permettant la calibration des modèles de graphes étudiés et l’étude de scénarios épidémiques variés.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+      url: 'https://maiage.inrae.fr/fr/node/2558'
+  - area: MSc in applied mathematics
+    institution: Université Paris Dauphine-PSL
+    date_start: 2021-09-01
+    date_end: 2022-07-30
+    # summary: |
+    #   kqjshd
+    #   Courses included:
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: MSc in advances mathematics
+    institution: Universidad Complutense de Madrid
+    date_start: 2020-09-01
+    date_end: 2021-07-30
+    # summary: |
+    #   GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   Courses included:
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc in Mathematics
+    institution: Sorbonne université
+    date_start: 2017-09-01
+    date_end: 2018-07-30
+    # summary: |
+    #   GPA: 3.4/4.0
+      
+    #   Courses included:
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+# work:
+#   - position: Director of Cloud Infrastructure
+#     company_name: GenCoin
+#     company_url: ''
+#     company_logo: ''
+#     date_start: 2021-01-01
+#     date_end: ''
+#     summary: |2-
+#       Responsibilities include:
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#   - position: Backend Software Engineer
+#     company_name: X
+#     company_url: ''
+#     company_logo: ''
+#     date_start: 2016-01-01
+#     date_end: 2020-12-31
+#     summary: |
+#       Responsibilities include:
+#       - Migrated infrastructure to a new data center
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`

@@ -46,10 +46,10 @@ profiles:
   # - icon: academicons/orcid
     # url: https://orcid.org/
 
-interests:
-  - Stochastic processes
-  - Epidemic models
-  - Information Retrieval
+# interests:
+#   - Stochastic processes
+#   - Epidemic models
+#   - Information Retrieval
 
 education:
   - area: PhD in applied mathematics
@@ -82,17 +82,17 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc in Mathematics
-    institution: Sorbonne université
-    date_start: 2017-09-01
-    date_end: 2018-07-30
-    summary: |
-      GPA: 3.4/4.0
+  # - area: BSc in Mathematics
+  #   institution: Sorbonne université
+  #   date_start: 2017-09-01
+  #   date_end: 2018-07-30
+  #   summary: |
+  #     GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     Courses included:
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin

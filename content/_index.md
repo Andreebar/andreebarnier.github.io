@@ -80,7 +80,7 @@ sections:
         folders:
           - teaching
     design:
-      view: list
+      view: article-grid
       columns: 1
   # - block: collection
   #   id: news

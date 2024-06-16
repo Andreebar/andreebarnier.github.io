@@ -12,4 +12,3 @@ image:
   filename: ''
 ---
 
-## Unit Seminar

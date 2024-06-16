@@ -1,7 +1,7 @@
 ---
 title: Unit seminar MaIAGE
 
-event: Hugo Blox Builder Conference
+# event: 
 event_url: https://maiage.inrae.fr/fr/seminaires_ext
 
 location: INRAE, Jouy-en-Josas

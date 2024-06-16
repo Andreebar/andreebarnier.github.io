@@ -10,7 +10,7 @@ address:
   city: 
   region: 
   postcode: 
-  country: France
+  country: Franc
 
 # summary: An example talk using Hugo Blox Builder's Markdown slides feature.
 # abstract: Le colloque Jeunes Probabilistes et Statisticiens se tient tous les deux ans depuis 1994 sous l'égide du groupe Modélisation Aléatoire et Statistique (MAS) de la Société de Mathématiques Appliquées et Industrielles (SMAI). Les participants sont des doctorants avancés (2ème ou 3ème année) ou éventuellement ayant soutenu leur thèse dans l'année. Son but est de leur fournir un cadre agréable et informel pour se rencontrer, exposer leurs travaux et enrichir leur spectre thématique.

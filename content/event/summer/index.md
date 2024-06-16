@@ -2,7 +2,7 @@
 title: (Poster) European Summer Program in Infectious Disease Analysis and Modelling
 
 event: European Summer Program in Infectious Disease Analysis and Modelling
-event_url: 
+event_url: https://www.su.se/department-of-mathematics/welcome-to-espidam-the-european-summer-program-in-infectious-disease-analysis-and-modelling-1.703719#:~:text=ESPIDAM%20is%20a%20Marcus%20Wallenberg,Stockholm%20Mathematics%20Centre%20and%20ESMTB.&text=The%20summer%20program%20consists%20of,one%20course%20each%20half%20week
 
 location: Stockholm University
 address:

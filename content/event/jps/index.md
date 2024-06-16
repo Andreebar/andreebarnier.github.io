@@ -6,10 +6,10 @@ event_url: https://jps-2023.sciencesconf.org
 
 location:  L'île d'Oléron
 address:
-  # street: 450 Serra Mall
-  # city: Stanford
-  # region: CA
-  # postcode: '94305'
+  street: 
+  city: 
+  region: 
+  postcode: 
   country: France
 
 # summary: An example talk using Hugo Blox Builder's Markdown slides feature.

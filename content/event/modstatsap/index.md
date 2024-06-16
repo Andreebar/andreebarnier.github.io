@@ -5,11 +5,11 @@ event: ModStat SAP network
 event_url: https://reseau-modstatsap.mathnum.inrae.fr
 
 location: Paris
-# address:
-#   street: 450 Serra Mall
-#   city: Stanford
-#   region: CA
-#   postcode: '94305'
+address:
+  street: 
+  city: 
+  region: 
+  postcode: 
   country: France
 
 # summary: An example talk using Hugo Blox Builder's Markdown slides feature.

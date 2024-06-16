@@ -5,12 +5,12 @@ title: Unit seminar MaIAGE
 event_url: https://maiage.inrae.fr/fr/seminaires_ext
 
 location: INRAE, Jouy-en-Josas
-# address:
-#   street: 450 Serra Mall
-#   city: Stanford
-#   region: CA
-#   postcode: '94305'
-#   country: United States
+address:
+  street: 
+  city: 
+  region: 
+  postcode: 
+  country: France
 
 # summary: An example talk using Hugo Blox Builder's Markdown slides feature.
 # abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'

@@ -2,7 +2,7 @@
 title: (Poster) European Summer Program in Infectious Disease Analysis and Modelling
 
 event: European Summer Program in Infectious Disease Analysis and Modelling
-event_url: 
+event_url: https://www.su.se/department-of-mathematics/welcome-to-espidam-the-european-summer-program-in-infectious-disease-analysis-and-modelling-1.703719
 
 location: Stockholm University
 address:

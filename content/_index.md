@@ -72,7 +72,7 @@ sections:
           - event
     design:
       view: article-grid
-      columns: 2
+      columns: 1
   - block: collection
     content:
       title: Teaching
